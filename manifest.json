@@ -1,7 +1,7 @@
 {
     "name": "Trumpit",
     "version": "0.1",
-    "description": "Fixes Trump references on web pages",
+    "description": "Fixes CNN, Fox, and Google News to improve informativeness",
     "permissions": ["activeTab"],
     "web_accessible_resources": [
         "data/*.json"
