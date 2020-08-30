@@ -1,0 +1,29 @@
+{
+    "name": "Trumpit",
+    "version": "1.0",
+    "description": "Fixes Trump references on web pages",
+    "permissions": ["activeTab"],
+    "web_accessible_resources": [
+        "data/*.json"
+    ],
+    "content_scripts": [{
+        "matches": [
+            "*://*.foxnews.com/*", 
+            "*://*.foxbusiness.com/*", 
+            "*://*.cnn.com/*",
+            "*://news.google.com/*"
+	 ],
+        "js": [
+            "jquery.min.js", 
+	    "text_replace.js",
+	    "images.js"
+	]
+    }],
+    "icons": {
+        "16": "images/get_started16.png",
+        "32": "images/get_started32.png",
+        "48": "images/get_started48.png",
+        "128": "images/get_started128.png"
+    },
+    "manifest_version": 2
+}
