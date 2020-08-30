@@ -1,6 +1,6 @@
 {
     "name": "Trumpit",
-    "version": "1.0",
+    "version": "0.1",
     "description": "Fixes Trump references on web pages",
     "permissions": ["activeTab"],
     "web_accessible_resources": [
@@ -20,10 +20,10 @@
 	]
     }],
     "icons": {
-        "16": "images/get_started16.png",
-        "32": "images/get_started32.png",
-        "48": "images/get_started48.png",
-        "128": "images/get_started128.png"
+        "16": "images/cheese_cat.png",
+        "32": "images/cheese_cat.png",
+        "48": "images/cheese_cat.png",
+        "128": "images/cheese_cat.png"
     },
     "manifest_version": 2
 }
