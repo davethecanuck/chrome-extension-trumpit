@@ -30,14 +30,16 @@
             "https://i.insider.com/5e95f228d5873a6ae721bbb6?width=1100&format=jpeg&auto=webp",
             "https://storage.googleapis.com/afs-prod/media/dd08b88c44a84e8689e5f7c757bde1ae/3000.jpeg",
       	    "https://globalnews.ca/wp-content/uploads/2020/02/eqnoerxwoam9ae3.jpg?quality=70&strip=all",
-            "https://i.kym-cdn.com/photos/images/original/001/274/068/85a.jpg",
+            "https://i.kym-cdn.com/photos/images/facebook/001/271/461/879.jpg",
             "https://media.gq.com/photos/5ac68bdf0995d03672949444/3:2/w_1185,h_790,c_limit/trump-hair.jpg"
         ]
     },
     {
         "pattern": ".*?coronavirus.*", 
 	"images": [
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZN-BROtapQ9Yz46ZDJ69BfNP8pmh6PtWf3g&usqp=CAU"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZN-BROtapQ9Yz46ZDJ69BfNP8pmh6PtWf3g&usqp=CAU",
+            "https://www.chicagotribune.com/resizer/3h7By4u8s7L78VP59lWboC-olA4=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/HQLWYLKYGZAIPKF7TQCMCEZJ6M.jpg",
+	    "https://www.kansascity.com/news/business/5heq3e/picture65012782/alternates/FREE_1140/corona%20beer"
 	]
     }
 ]

@@ -1,7 +1,7 @@
 {
     "name": "Trumpit",
-    "version": "0.1",
-    "description": "Fixes CNN, Fox, and Google News to improve informativeness",
+    "version": "0.1.0",
+    "description": "Mangles the text and images on CNN, Fox, and Google News.",
     "permissions": ["activeTab"],
     "web_accessible_resources": [
         "data/*.json"
@@ -20,10 +20,10 @@
 	]
     }],
     "icons": {
-        "16": "images/cheese_cat.png",
-        "32": "images/cheese_cat.png",
-        "48": "images/cheese_cat.png",
-        "128": "images/cheese_cat.png"
+        "16": "images/cheese_cat_16.png",
+        "32": "images/cheese_cat_32.png",
+        "48": "images/cheese_cat_48.png",
+        "128": "images/cheese_cat_128.png"
     },
     "manifest_version": 2
 }
